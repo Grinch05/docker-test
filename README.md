@@ -1,9 +1,9 @@
-# Welcome to Docker
+# Welcome to Docker П-21 Дёшин М.С.
 
 This is a repo for new users getting started with Docker.
 
 You can try it out using the following command.
-
+это если в докере уже есть контейнер
 ```
 docker run -d -p 8088:80 --name welcome-to-docker docker/welcome-to-docker
 ```
